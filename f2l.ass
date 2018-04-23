@@ -1,0 +1,457 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+Last Style Storage: Default
+Active Line: 526
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: fonte legenda,Tahoma,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,Bree Serif,22,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Bree Serif,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,Bree Serif,22,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Bree Serif,22,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: musica no video,Bree Serif,22,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.70,0:00:11.75,fonte legenda,,0,0,0,,Nos limites do oeste, em um\Ncastelo, nas profundezas de uma floresta,
+Dialogue: 0,0:00:11.75,0:00:16.12,fonte legenda,,0,0,0,,havia uma princesa extremamente bonita,
+Dialogue: 0,0:00:16.12,0:00:20.49,fonte legenda,,0,0,0,,que, dizem, dormia há milhares de anos.
+Dialogue: 0,0:00:39.32,0:00:47.92,legenda para anuncio de episódio e creditos,,0,0,0,,"A PRINCESA ADORMECIDA NO CASTELO DO DIABO"\N"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:00:59.81,0:01:03.48,legenda para abertura e encerramento,,0,0,0,,Vamos pegá-las! DRAGON BALL!
+Dialogue: 0,0:01:03.48,0:01:06.82,legenda para abertura e encerramento,,0,0,0,,Elas são um dos\Nmistérios mais eletrizantes do mundo
+Dialogue: 0,0:01:06.82,0:01:10.49,legenda para abertura e encerramento,,0,0,0,,Vamos procurá-las! DRAGON BALL!
+Dialogue: 0,0:01:10.49,0:01:13.49,legenda para abertura e encerramento,,0,0,0,,Elas são um dos\Nmilagres mais encantadores do mundo
+Dialogue: 0,0:01:13.49,0:01:17.16,legenda para abertura e encerramento,,0,0,0,,Essa vida é uma grande ilha do tesouro
+Dialogue: 0,0:01:17.16,0:01:24.83,legenda para abertura e encerramento,,0,0,0,,Essa é a verdade,\Nmais do que nunca... Aventura!
+Dialogue: 0,0:01:24.83,0:01:28.17,legenda para abertura e encerramento,,0,0,0,,O amor de um peito batendo é perfeito,
+Dialogue: 0,0:01:28.17,0:01:31.84,legenda para abertura e encerramento,,0,0,0,,sonhos multicoloridos nascem como arco-íris
+Dialogue: 0,0:01:31.84,0:01:38.85,legenda para abertura e encerramento,,0,0,0,,Eles estão crescendo em algum lugar do mundo
+Dialogue: 0,0:01:38.85,0:01:42.45,legenda para abertura e encerramento,,0,0,0,,Vamos lá fora para encontrá-las, garoto
+Dialogue: 0,0:01:42.45,0:01:45.46,legenda para abertura e encerramento,,0,0,0,,Acabando com monstros e mutantes o tempo todo
+Dialogue: 0,0:01:45.46,0:01:53.13,legenda para abertura e encerramento,,0,0,0,,E ainda voaremos durante\No dia em nossa máquina de nuvem!
+Dialogue: 0,0:01:53.13,0:01:56.47,legenda para abertura e encerramento,,0,0,0,,Vamos tentar,\Ntentar, tentar, é tão misterioso!
+Dialogue: 0,0:01:56.47,0:02:00.14,legenda para abertura e encerramento,,0,0,0,,Viajando pelo céu\Nenquanto sobrevoamos montanhas!
+Dialogue: 0,0:02:00.14,0:02:03.47,legenda para abertura e encerramento,,0,0,0,,Vamos voar, voar, voar, grande aventura!
+Dialogue: 0,0:02:03.47,0:02:10.81,legenda para abertura e encerramento,,0,0,0,,Nossa excêntrica\Ne pequena jornada vai começar
+Dialogue: 0,0:02:10.81,0:02:14.15,legenda para abertura e encerramento,,0,0,0,,Vamos segurá-las! DRAGON BALL!
+Dialogue: 0,0:02:14.15,0:02:17.82,legenda para abertura e encerramento,,0,0,0,,Elas são uma das\Napostas mais formidáveis no mundo
+Dialogue: 0,0:02:17.82,0:02:21.49,legenda para abertura e encerramento,,0,0,0,,Vamos persegui-las! DRAGON BALL!
+Dialogue: 0,0:02:21.49,0:02:24.49,legenda para abertura e encerramento,,0,0,0,,Um dos contos mais divertidos no mundo
+Dialogue: 0,0:02:24.49,0:02:28.16,legenda para abertura e encerramento,,0,0,0,,Essa vida é uma grande ilha do tesouro
+Dialogue: 0,0:02:28.16,0:02:35.30,legenda para abertura e encerramento,,0,0,0,,Essa é a verdade,\Nmais do que nunca... Aventura!
+Dialogue: 0,0:03:24.86,0:03:29.09,fonte legenda,,0,0,0,,Vejamos, devo estar perto... ah, é logo ali!
+Dialogue: 0,0:03:39.20,0:03:44.20,fonte legenda,,0,0,0,,Velho! Estou aqui!
+Dialogue: 0,0:03:45.14,0:03:47.48,fonte legenda,,0,0,0,,Muito bem!
+Dialogue: 0,0:03:47.48,0:03:50.54,fonte legenda,,0,0,0,,Agora estendam as pernas...
+Dialogue: 0,0:03:52.15,0:03:55.78,fonte legenda,,0,0,0,,Isso mesmo! Um, dois! Um, dois!
+Dialogue: 0,0:03:57.49,0:03:59.29,fonte legenda,,0,0,0,,Velho...
+Dialogue: 0,0:04:04.16,0:04:08.16,fonte legenda,,0,0,0,,Velho!!
+Dialogue: 0,0:04:16.51,0:04:18.51,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:04:18.51,0:04:21.18,fonte legenda,,0,0,0,,Você quer treinar?
+Dialogue: 0,0:04:21.18,0:04:22.51,fonte legenda,,0,0,0,,Uhum.
+Dialogue: 0,0:04:22.51,0:04:26.14,fonte legenda,,0,0,0,,Meu treinamento é muito duro.
+Dialogue: 0,0:04:27.19,0:04:30.36,fonte legenda,,0,0,0,,Não me importa. Vou me tornar\Nmais forte que o senhor,
+Dialogue: 0,0:04:30.36,0:04:31.34,fonte legenda,,0,0,0,,velho Mestre Kame.
+Dialogue: 0,0:04:34.53,0:04:37.86,fonte legenda,,0,0,0,,Entendo, você quer se tornar\Nmais forte do que eu, não é?
+Dialogue: 0,0:04:37.86,0:04:42.60,fonte legenda,,0,0,0,,Bem, não vou te treinar de graça.
+Dialogue: 0,0:04:43.47,0:04:44.80,fonte legenda,,0,0,0,,Agora, escute...
+Dialogue: 0,0:04:44.80,0:04:47.14,fonte legenda,,0,0,0,,Hein?
+Dialogue: 0,0:04:47.14,0:04:49.54,fonte legenda,,0,0,0,,Velho, o que é aquilo?
+Dialogue: 0,0:04:50.48,0:04:52.81,fonte legenda,,0,0,0,,Uh. Será uma garota?
+Dialogue: 0,0:04:52.81,0:04:55.78,fonte legenda,,0,0,0,,É um barco. E há um\Ncara estranho navegando-o.
+Dialogue: 0,0:05:35.19,0:05:37.52,fonte legenda,,0,0,0,,O que temos aqui?
+Dialogue: 0,0:05:37.52,0:05:39.62,fonte legenda,,0,0,0,,Goku, tire-o daí.
+Dialogue: 0,0:05:44.80,0:05:46.46,fonte legenda,,0,0,0,,Obrigado.
+Dialogue: 0,0:05:46.46,0:05:48.47,fonte legenda,,0,0,0,,Você é o Mestre Kame, não é?
+Dialogue: 0,0:05:48.47,0:05:51.47,fonte legenda,,0,0,0,,De fato, eu sou.
+Dialogue: 0,0:05:51.47,0:05:54.87,fonte legenda,,0,0,0,,Eu venho de uma vila longínqua, a leste.
+Dialogue: 0,0:05:54.87,0:05:58.47,fonte legenda,,0,0,0,,Meu nome é Kuririn.\NPor favor, me aceite como seu discípulo.
+Dialogue: 0,0:05:59.48,0:06:01.81,fonte legenda,,0,0,0,,Eu agradeço você ter vindo.
+Dialogue: 0,0:06:01.81,0:06:07.08,fonte legenda,,0,0,0,,Infelizmente, eu não aceito\Ndiscípulos tão facilmente. Desista.
+Dialogue: 0,0:06:15.83,0:06:18.83,fonte legenda,,0,0,0,,Por favor, aceite essa reviste, de presente.
+Dialogue: 0,0:06:18.83,0:06:21.13,fonte legenda,,0,0,0,,Tudo bem, vou pensar.
+Dialogue: 0,0:06:26.84,0:06:29.51,fonte legenda,,0,0,0,,Essa aqui é boa e peituda!
+Dialogue: 0,0:06:29.51,0:06:31.63,fonte legenda,,0,0,0,,Então, você gostou, é?
+Dialogue: 0,0:06:33.18,0:06:34.85,fonte legenda,,0,0,0,,E então, quem é você?
+Dialogue: 0,0:06:34.85,0:06:37.85,fonte legenda,,0,0,0,,Eu sou Son Goku.
+Dialogue: 0,0:06:37.85,0:06:39.78,fonte legenda,,0,0,0,,Não parece que\Nentende muito de artes marciais.
+Dialogue: 0,0:06:39.78,0:06:41.95,fonte legenda,,0,0,0,,Mas eu gosto muito.
+Dialogue: 0,0:06:43.79,0:06:46.46,fonte legenda,,0,0,0,,Tentando bancar o engraçadinho?
+Dialogue: 0,0:06:46.46,0:06:49.79,fonte legenda,,0,0,0,,Sua cabeça parece uma bola de boliche!
+Dialogue: 0,0:06:49.79,0:06:52.33,fonte legenda,,0,0,0,,O que você está falando!?\NQuem pratica artes marciais
+Dialogue: 0,0:06:52.33,0:06:54.47,fonte legenda,,0,0,0,,tem que raspar a cabeça e ter mente forte!
+Dialogue: 0,0:06:54.47,0:06:56.47,fonte legenda,,0,0,0,,Olha! Não viu a cabeça do Mestre Kame?
+Dialogue: 0,0:06:56.47,0:06:58.77,fonte legenda,,0,0,0,,Eu simplesmente sou careca.
+Dialogue: 0,0:07:05.14,0:07:08.48,fonte legenda,,0,0,0,,Então, seu nome é Kuririn, certo?
+Dialogue: 0,0:07:08.48,0:07:11.15,fonte legenda,,0,0,0,,Goku, escute também.
+Dialogue: 0,0:07:11.15,0:07:16.49,fonte legenda,,0,0,0,,Para serem treinados por mim,\Nvocês tem que me trazer uma garota peituda.
+Dialogue: 0,0:07:16.49,0:07:18.82,fonte legenda,,0,0,0,,Uma garota peluda?
+Dialogue: 0,0:07:18.82,0:07:24.42,fonte legenda,,0,0,0,,Uma garota peituda!\NE que seja bonita, divertida e jovem.
+Dialogue: 0,0:07:26.16,0:07:28.83,fonte legenda,,0,0,0,,Por favor, deixe comigo.\NEu te trarei uma imediatamente.
+Dialogue: 0,0:07:28.83,0:07:30.84,fonte legenda,,0,0,0,,Agora, espere.
+Dialogue: 0,0:07:30.84,0:07:35.51,fonte legenda,,0,0,0,,Se eu deixar por conta de vocês, não\Nhá como saber que tipo de garota vão trazer.
+Dialogue: 0,0:07:35.51,0:07:39.18,fonte legenda,,0,0,0,,E por isso, é melhor trazerem a que eu quero.
+Dialogue: 0,0:07:39.18,0:07:40.78,fonte legenda,,0,0,0,,E quem ela seria?
+Dialogue: 0,0:07:40.78,0:07:44.12,fonte legenda,,0,0,0,,Seria a Princesa\NAdormecida do Castelo do Diabo.
+Dialogue: 0,0:07:44.12,0:07:45.45,fonte legenda,,0,0,0,,Castelo do Diabo?
+Dialogue: 0,0:07:45.45,0:07:47.28,fonte legenda,,0,0,0,,Princesa Adormecida?
+Dialogue: 0,0:07:48.12,0:07:52.16,fonte legenda,,0,0,0,,Há muito tempo, havia\Numa jovem garota extremamente bonita
+Dialogue: 0,0:07:52.16,0:07:56.46,fonte legenda,,0,0,0,,que foi seqüestrada por um demônio,\Ne trancada no seu castelo sem compaixão.
+Dialogue: 0,0:07:56.46,0:08:00.80,fonte legenda,,0,0,0,,Infelizmente, milhares de anos\Nse passaram sem que ninguém fosse salvá-la,
+Dialogue: 0,0:08:00.80,0:08:05.14,fonte legenda,,0,0,0,,e dizem que ela continuou\Ndormindo todo esse tempo numa sala escura
+Dialogue: 0,0:08:05.14,0:08:07.14,fonte legenda,,0,0,0,,Ela é tão bonita assim?
+Dialogue: 0,0:08:07.14,0:08:13.14,fonte legenda,,0,0,0,,Claro que é. Dizem que aqueles\Nque a viram ficavam cegos pela sua beleza
+Dialogue: 0,0:08:13.14,0:08:15.81,fonte legenda,,0,0,0,,e não conseguiam andar devido a seu olhar.
+Dialogue: 0,0:08:16.82,0:08:22.12,fonte legenda,,0,0,0,,Sua figura indescritível e seu\Nporte majestoso e nobre fazem dela
+Dialogue: 0,0:08:22.12,0:08:23.15,fonte legenda,,0,0,0,,uma escultura sublime.
+Dialogue: 0,0:08:23.15,0:08:26.82,fonte legenda,,0,0,0,,Ela é tão bonita\Nque chega a tirar o brilho das deusas.
+Dialogue: 0,0:08:32.16,0:08:33.60,fonte legenda,,0,0,0,,É esse.
+Dialogue: 0,0:08:35.50,0:08:38.50,fonte legenda,,0,0,0,,Vamos ter que trazer ela?
+Dialogue: 0,0:08:38.50,0:08:41.71,fonte legenda,,0,0,0,,Uhum. Aquele de vocês que me\Ntrouxer ela de volta do castelo
+Dialogue: 0,0:08:41.71,0:08:44.44,fonte legenda,,0,0,0,,será o meu\Ndiscípulo. Então, podem fazer isso?
+Dialogue: 0,0:08:44.44,0:08:45.78,fonte legenda,,0,0,0,,Claro que posso!
+Dialogue: 0,0:08:45.78,0:08:46.78,fonte legenda,,0,0,0,,Eu também!
+Dialogue: 0,0:08:46.78,0:08:48.11,fonte legenda,,0,0,0,,Muito bem.
+Dialogue: 0,0:08:48.11,0:08:53.45,fonte legenda,,0,0,0,,Mas onde fica o Castelo do Diabo?
+Dialogue: 0,0:08:53.45,0:08:57.12,fonte legenda,,0,0,0,,Vocês tem que ir aos limites do oeste...
+Dialogue: 0,0:08:57.12,0:08:59.46,fonte legenda,,0,0,0,,Velho, isso é o sul.
+Dialogue: 0,0:08:59.46,0:09:00.79,fonte legenda,,0,0,0,,S... Sul?
+Dialogue: 0,0:09:03.13,0:09:05.46,fonte legenda,,0,0,0,,Vão bem a oeste daqui,
+Dialogue: 0,0:09:05.46,0:09:07.43,fonte legenda,,0,0,0,,e verão cinco montanhas juntas.
+Dialogue: 0,0:09:07.43,0:09:09.13,fonte legenda,,0,0,0,,Elas se chamam a mão do diabo.
+Dialogue: 0,0:09:09.13,0:09:12.47,fonte legenda,,0,0,0,,Majin-jo, o Castelo do Diabo,\Ndeve ficar em algum lugar nessas montanhas.
+Dialogue: 0,0:09:12.47,0:09:13.81,fonte legenda,,0,0,0,,Quanto para o oeste?
+Dialogue: 0,0:09:13.81,0:09:15.81,fonte legenda,,0,0,0,,Tudo.
+Dialogue: 0,0:09:15.81,0:09:18.81,fonte legenda,,0,0,0,,T...Tudo?
+Dialogue: 0,0:09:18.81,0:09:21.14,fonte legenda,,0,0,0,,Tu...do!
+Dialogue: 0,0:09:24.48,0:09:27.04,fonte legenda,,0,0,0,,Parece que vai ser divertido.
+Dialogue: 0,0:09:28.82,0:09:31.31,fonte legenda,,0,0,0,,Eu não vou ser derrotado por esse anão.
+Dialogue: 0,0:09:32.16,0:09:35.49,fonte legenda,,0,0,0,,Tudo bem. Então, já está na hora de irem.
+Dialogue: 0,0:09:35.49,0:09:36.83,fonte legenda,,0,0,0,,...Certo!\N...Uhum.
+Dialogue: 0,0:09:36.83,0:09:38.50,fonte legenda,,0,0,0,,Ei, Kinto!
+Dialogue: 0,0:09:38.50,0:09:40.23,fonte legenda,,0,0,0,,Espere, Goku!
+Dialogue: 0,0:09:41.50,0:09:44.17,fonte legenda,,0,0,0,,Você não pode usar a Kinto Un.
+Dialogue: 0,0:09:44.17,0:09:45.17,fonte legenda,,0,0,0,,Kinto Un?
+Dialogue: 0,0:09:45.17,0:09:48.84,fonte legenda,,0,0,0,,Não seria justo você\Nchegar lá primeiro, afinal de contas.
+Dialogue: 0,0:09:48.84,0:09:52.18,fonte legenda,,0,0,0,,Vocês devem ir\Nusando apenas seus próprios corpos.
+Dialogue: 0,0:09:52.18,0:09:53.85,fonte legenda,,0,0,0,,Oh, tudo bem.
+Dialogue: 0,0:09:53.85,0:09:54.51,fonte legenda,,0,0,0,,Ei...
+Dialogue: 0,0:09:54.51,0:09:55.18,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:09:55.18,0:09:59.45,fonte legenda,,0,0,0,,Essa é uma corrida entre nós dois,\Nentão, se você entrar em perigo,
+Dialogue: 0,0:09:59.45,0:10:01.52,fonte legenda,,0,0,0,,eu não vou te ajudar.
+Dialogue: 0,0:10:01.52,0:10:03.19,fonte legenda,,0,0,0,,Sim, tudo bem.
+Dialogue: 0,0:10:03.19,0:10:04.86,fonte legenda,,0,0,0,,Vão!
+Dialogue: 0,0:10:04.86,0:10:06.95,fonte legenda,,0,0,0,,Vamos!
+Dialogue: 0,0:10:12.20,0:10:14.60,fonte legenda,,0,0,0,,Ups, foi sem querer!\NBem, eu vou indo na frente.
+Dialogue: 0,0:10:16.53,0:10:18.33,fonte legenda,,0,0,0,,Eu não vou perder!
+Dialogue: 0,0:10:21.87,0:10:24.07,fonte legenda,,0,0,0,,Princesa Adormecida, hein?
+Dialogue: 0,0:10:28.55,0:10:31.41,fonte legenda,,0,0,0,,Eu vou buscar a Princesa Adormecida!
+Dialogue: 0,0:10:36.89,0:10:39.49,fonte legenda,,0,0,0,,Como ele é rápido!
+Dialogue: 0,0:10:39.49,0:10:43.02,fonte legenda,,0,0,0,,Eu vou treinar\Ncom o velho, custe o que custar!
+Dialogue: 0,0:11:10.52,0:11:12.01,fonte legenda,,0,0,0,,Goku!
+Dialogue: 0,0:11:13.19,0:11:14.86,fonte legenda,,0,0,0,,...O quê?\N...O que é aquilo lá?
+Dialogue: 0,0:11:14.86,0:11:15.86,fonte legenda,,0,0,0,,Hmm? Onde? Onde?
+Dialogue: 0,0:11:15.86,0:11:17.53,fonte legenda,,0,0,0,,Lá! Lá! Lá! Lá!
+Dialogue: 0,0:11:17.53,0:11:19.86,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:11:19.86,0:11:21.99,fonte legenda,,0,0,0,,Ah! Trapaceiro!
+Dialogue: 0,0:11:36.55,0:11:38.61,fonte legenda,,0,0,0,,Não me leve a mal.
+Dialogue: 0,0:12:26.36,0:12:27.92,fonte legenda,,0,0,0,,Oi!
+Dialogue: 0,0:12:32.87,0:12:35.21,fonte legenda,,0,0,0,,O que é isso?
+Dialogue: 0,0:12:35.21,0:12:37.54,fonte legenda,,0,0,0,,Não é nada!
+Dialogue: 0,0:12:37.54,0:12:39.21,fonte legenda,,0,0,0,,Veja, é a Bulma.
+Dialogue: 0,0:12:39.21,0:12:41.48,fonte legenda,,0,0,0,,Já faz muito tempo, Mestre Kame.
+Dialogue: 0,0:12:41.48,0:12:44.15,fonte legenda,,0,0,0,,...Boa tarde!\N...E aí!
+Dialogue: 0,0:12:44.15,0:12:48.82,fonte legenda,,0,0,0,,O quê, vocês estão aqui também?\NPosso saber o que estão fazendo aqui?
+Dialogue: 0,0:12:48.82,0:12:54.83,fonte legenda,,0,0,0,,Aproveitando as férias, pensamos que já fazia\Nalgum tempo, então viemos ver o Son-kun.
+Dialogue: 0,0:12:54.83,0:13:00.83,fonte legenda,,0,0,0,,Oh, pensei que talvez você tivesse\Nvindo para me deixar jogar "pafu-pafu".
+Dialogue: 0,0:13:00.83,0:13:02.83,fonte legenda,,0,0,0,,Você está louco!?
+Dialogue: 0,0:13:02.83,0:13:04.84,fonte legenda,,0,0,0,,Mestre Kame, onde está o Goku?
+Dialogue: 0,0:13:04.84,0:13:08.17,fonte legenda,,0,0,0,,Oh, ele estava aqui essa manhã.
+Dialogue: 0,0:13:08.17,0:13:09.84,fonte legenda,,0,0,0,,Ele não está aqui?
+Dialogue: 0,0:13:09.84,0:13:12.51,fonte legenda,,0,0,0,,Não. Ele saiu faz algum tempo.
+Dialogue: 0,0:13:12.51,0:13:13.85,fonte legenda,,0,0,0,,Para onde?
+Dialogue: 0,0:13:13.85,0:13:16.51,fonte legenda,,0,0,0,,Aposto que pediu a ele algum favor indecente.
+Dialogue: 0,0:13:16.51,0:13:21.29,fonte legenda,,0,0,0,,Isso é um absurdo! Ele saiu\Ncom outro garoto, chamado Kuririn,
+Dialogue: 0,0:13:21.29,0:13:22.65,fonte legenda,,0,0,0,,para o castelo Majin-jo...
+Dialogue: 0,0:13:24.19,0:13:27.86,fonte legenda,,0,0,0,,Er... não.\NAcho que se chamava Castelo Mahjongg-jo?
+Dialogue: 0,0:13:27.86,0:13:30.86,fonte legenda,,0,0,0,,Ele foi se divertir num parque de diversões.
+Dialogue: 0,0:13:30.86,0:13:32.59,fonte legenda,,0,0,0,,Onde fica isso?
+Dialogue: 0,0:13:33.87,0:13:35.53,fonte legenda,,0,0,0,,Tudo a oeste.
+Dialogue: 0,0:13:35.53,0:13:36.59,fonte legenda,,0,0,0,,Tudo?
+Dialogue: 0,0:13:37.54,0:13:40.16,fonte legenda,,0,0,0,,Sim... Tudo!
+Dialogue: 0,0:13:46.48,0:13:49.71,fonte legenda,,0,0,0,,Imagino se ele já chegou ao castelo.
+Dialogue: 0,0:13:53.32,0:13:54.65,fonte legenda,,0,0,0,,Oi!
+Dialogue: 0,0:13:57.16,0:13:59.16,fonte legenda,,0,0,0,,Finalmente chegamos, hein?
+Dialogue: 0,0:13:59.16,0:14:00.82,fonte legenda,,0,0,0,,Olha lá.
+Dialogue: 0,0:14:13.17,0:14:17.63,fonte legenda,,0,0,0,,...e verão cinco montanhas juntas.\NElas se chamam a mão do diabo.
+Dialogue: 0,0:14:19.84,0:14:22.18,fonte legenda,,0,0,0,,Essa é a mão do diabo?
+Dialogue: 0,0:14:32.19,0:14:33.52,fonte legenda,,0,0,0,,Tudo bem, eu já vou!
+Dialogue: 0,0:14:33.52,0:14:35.12,fonte legenda,,0,0,0,,Eu também!
+Dialogue: 0,0:14:51.48,0:14:54.24,fonte legenda,,0,0,0,,Olha, tem uma caverna muito grande.
+Dialogue: 0,0:14:56.15,0:14:58.14,fonte legenda,,0,0,0,,Ah, é só uma escultura.
+Dialogue: 0,0:15:00.82,0:15:03.15,fonte legenda,,0,0,0,,O lugar não é esse aqui?
+Dialogue: 0,0:15:03.15,0:15:05.82,fonte legenda,,0,0,0,,Mas esse parque já\Nnão deve mais estar aberto, deve?
+Dialogue: 0,0:15:05.82,0:15:07.49,fonte legenda,,0,0,0,,Isso é arrepiante.
+Dialogue: 0,0:15:07.49,0:15:10.29,fonte legenda,,0,0,0,,Essa deve ser a casa assombrada.
+Dialogue: 0,0:15:18.84,0:15:23.27,fonte legenda,,0,0,0,,Esse sol miserável finalmente desapareceu.
+Dialogue: 0,0:15:24.51,0:15:26.20,fonte legenda,,0,0,0,,Não é mesmo?
+Dialogue: 0,0:15:27.85,0:15:32.01,fonte legenda,,0,0,0,,Essa é uma fumaça bem densa, hein?\NEstá ficando mais difícil de pilotar...
+Dialogue: 0,0:15:37.19,0:15:38.71,fonte legenda,,0,0,0,,P-Pare!
+Dialogue: 0,0:15:56.14,0:15:58.47,fonte legenda,,0,0,0,,I-Isso é assustador.
+Dialogue: 0,0:16:06.48,0:16:08.01,fonte legenda,,0,0,0,,Qual o problema?
+Dialogue: 0,0:16:11.82,0:16:13.95,fonte legenda,,0,0,0,,Esquece, não é nada.
+Dialogue: 0,0:16:50.13,0:16:52.82,fonte legenda,,0,0,0,,Já recuperou a consciência, senhorita?
+Dialogue: 0,0:16:55.13,0:16:57.47,fonte legenda,,0,0,0,,Quem é você?
+Dialogue: 0,0:16:57.47,0:17:00.60,fonte legenda,,0,0,0,,Eu sou Lúcifer, o mestre desse castelo.
+Dialogue: 0,0:17:03.81,0:17:05.81,fonte legenda,,0,0,0,,Eu sou Bulma.
+Dialogue: 0,0:17:05.81,0:17:08.15,fonte legenda,,0,0,0,,Fico feliz que não tenha se machucado.
+Dialogue: 0,0:17:08.15,0:17:10.48,fonte legenda,,0,0,0,,Agora, escute, você...
+Dialogue: 0,0:17:10.48,0:17:12.15,fonte legenda,,0,0,0,,Sim, o que é?
+Dialogue: 0,0:17:12.15,0:17:14.85,fonte legenda,,0,0,0,,Vocês recebem\Nmuito mal os visitantes, sabiam?
+Dialogue: 0,0:17:14.85,0:17:17.51,fonte legenda,,0,0,0,,Mesmo sendo uma casa\Nmal-assombrada, foram longe demais.
+Dialogue: 0,0:17:18.82,0:17:23.29,fonte legenda,,0,0,0,,Sinto muitíssimo quanto àquilo.\NNão é muito, mas como forma de me desculpar,
+Dialogue: 0,0:17:23.29,0:17:26.16,fonte legenda,,0,0,0,,eu a convido para uma festa de jantar.
+Dialogue: 0,0:17:26.16,0:17:27.16,fonte legenda,,0,0,0,,Festa de jantar?
+Dialogue: 0,0:17:27.16,0:17:31.84,fonte legenda,,0,0,0,,Bem, não parece ruim.\NE eu já estava ficando com fome também.
+Dialogue: 0,0:17:31.84,0:17:33.50,fonte legenda,,0,0,0,,Bem, devemos ir então.
+Dialogue: 0,0:17:34.84,0:17:36.20,fonte legenda,,0,0,0,,Sim, senhor.
+Dialogue: 0,0:17:39.18,0:17:41.11,fonte legenda,,0,0,0,,Eu vou levá-la. Venha.
+Dialogue: 0,0:17:41.11,0:17:44.28,fonte legenda,,0,0,0,,Aliás, onde estão\NYamcha e os outros com quem eu vim?
+Dialogue: 0,0:17:45.12,0:17:47.88,fonte legenda,,0,0,0,,Esses não pareciam ser saborosos.
+Dialogue: 0,0:19:05.46,0:19:07.47,fonte legenda,,0,0,0,,Quê!?
+Dialogue: 0,0:19:07.47,0:19:11.20,fonte legenda,,0,0,0,,O que vocês garotos estão fazendo!?
+Dialogue: 0,0:19:16.47,0:19:18.37,fonte legenda,,0,0,0,,Foi você!?\NA Princesa Adormecida...
+Dialogue: 0,0:19:20.48,0:19:22.48,fonte legenda,,0,0,0,,Eu não sou a Princesa Adormecida!
+Dialogue: 0,0:19:22.48,0:19:25.62,fonte legenda,,0,0,0,,Não foi o que eu quis dizer!\NFoi você...!?
+Dialogue: 0,0:19:25.62,0:19:27.82,fonte legenda,,0,0,0,,Que seqüestrou a Princesa Adormecida!?
+Dialogue: 0,0:19:27.82,0:19:30.88,fonte legenda,,0,0,0,,Mas que garoto mais atrevido!
+Dialogue: 0,0:19:32.49,0:19:35.49,fonte legenda,,0,0,0,,Onde ela está!?
+Dialogue: 0,0:19:35.49,0:19:36.83,fonte legenda,,0,0,0,,Fala, por favor?
+Dialogue: 0,0:19:36.83,0:19:38.29,fonte legenda,,0,0,0,,Seu...!
+Dialogue: 0,0:19:41.50,0:19:42.86,fonte legenda,,0,0,0,,Aí vem eles de novo!
+Dialogue: 0,0:19:52.18,0:19:53.37,fonte legenda,,0,0,0,,Seu...!
+Dialogue: 0,0:20:27.21,0:20:29.24,fonte legenda,,0,0,0,,Cresça, Nyoi-bo!
+Dialogue: 0,0:20:32.22,0:20:33.31,fonte legenda,,0,0,0,,Goku!
+Dialogue: 0,0:20:34.22,0:20:35.58,fonte legenda,,0,0,0,,Kuririn!
+Dialogue: 0,0:21:54.50,0:21:55.97,fonte legenda,,0,0,0,,Agora é minha chance!
+Dialogue: 0,0:22:03.84,0:22:05.84,fonte legenda,,0,0,0,,Que macabro, parece tão real, né?
+Dialogue: 0,0:22:05.84,0:22:07.85,fonte legenda,,0,0,0,,A propósito, mal que eu pergunte,
+Dialogue: 0,0:22:07.85,0:22:11.85,fonte legenda,,0,0,0,,Senhorita, quantos anos você tem?
+Dialogue: 0,0:22:11.85,0:22:13.85,fonte legenda,,0,0,0,,16 aninhos.
+Dialogue: 0,0:22:13.85,0:22:17.52,fonte legenda,,0,0,0,,Faz muito tempo que não temos uma de 16.
+Dialogue: 0,0:22:17.52,0:22:18.86,fonte legenda,,0,0,0,,O que quer dizer?
+Dialogue: 0,0:22:18.86,0:22:21.95,fonte legenda,,0,0,0,,Ele está falando da\Nbebida que serviremos essa noite.
+Dialogue: 0,0:22:25.20,0:22:28.39,fonte legenda,,0,0,0,,Tudo bem, esse é o aposento.
+Dialogue: 0,0:23:25.86,0:23:30.19,fonte legenda,,0,0,0,,Isso é real demais\Nmesmo para uma festa de máscaras.
+Dialogue: 0,0:23:30.19,0:23:31.86,fonte legenda,,0,0,0,,Senhores!
+Dialogue: 0,0:23:31.86,0:23:35.87,fonte legenda,,0,0,0,,Senhores, deixem-me\Nintroduzir-lhes nossa convidada principal!
+Dialogue: 0,0:23:35.87,0:23:37.42,fonte legenda,,0,0,0,,Senhorita Bulma!
+Dialogue: 0,0:23:55.15,0:23:57.82,fonte legenda,,0,0,0,,As fantasias de todos estão muito bem feitas.
+Dialogue: 0,0:23:57.82,0:24:01.48,fonte legenda,,0,0,0,,Isso é porque fazemos isso toda noite.
+Dialogue: 0,0:24:10.17,0:24:13.50,fonte legenda,,0,0,0,,Então, onde estão Yamcha e os outros?
+Dialogue: 0,0:24:13.50,0:24:19.10,fonte legenda,,0,0,0,,Como foi dito, aqui só\Ntrazemos as comidas mais saborosas.
+Dialogue: 0,0:24:22.51,0:24:24.34,fonte legenda,,0,0,0,,Você que dizer eu!?
+Dialogue: 0,0:24:25.18,0:24:29.19,fonte legenda,,0,0,0,,Bingo! Bingo! Bingo!
+Dialogue: 0,0:24:29.19,0:24:32.56,fonte legenda,,0,0,0,,Pela primeira vez em\Nmuito tempo, acho que vamos
+Dialogue: 0,0:24:32.56,0:24:34.18,fonte legenda,,0,0,0,,brindar com o sangue de uma jovem como você.
+Dialogue: 0,0:24:57.82,0:25:02.05,fonte legenda,,0,0,0,,Para com isso! Não!
+Dialogue: 0,0:25:02.82,0:25:05.76,fonte legenda,,0,0,0,,Alguém!!
+Dialogue: 0,0:25:10.16,0:25:12.59,fonte legenda,,0,0,0,,Tenho certeza que ouvi a voz da Bulma!
+Dialogue: 0,0:25:19.50,0:25:20.77,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:25:34.85,0:25:36.91,fonte legenda,,0,0,0,,Socorro!
+Dialogue: 0,0:25:41.79,0:25:43.02,fonte legenda,,0,0,0,,Kuririn!
+Dialogue: 0,0:26:02.15,0:26:03.20,fonte legenda,,0,0,0,,Kuririn!
+Dialogue: 0,0:26:04.82,0:26:06.58,fonte legenda,,0,0,0,,Kinto Un!
+Dialogue: 0,0:26:20.50,0:26:21.83,fonte legenda,,0,0,0,,Te peguei!
+Dialogue: 0,0:26:26.84,0:26:28.17,fonte legenda,,0,0,0,,Goku!
+Dialogue: 0,0:26:28.17,0:26:30.44,fonte legenda,,0,0,0,,Aqui, põe os pés na Kinto Un.
+Dialogue: 0,0:26:41.12,0:26:44.79,fonte legenda,,0,0,0,,Você não pode subir na Kinto Un,\Nporque você tem maus pensamentos.
+Dialogue: 0,0:26:44.79,0:26:46.46,fonte legenda,,0,0,0,,Como eu ia saber disso!?
+Dialogue: 0,0:26:46.46,0:26:48.79,fonte legenda,,0,0,0,,Pode segurar nas minhas costas.
+Dialogue: 0,0:26:48.79,0:26:53.46,fonte legenda,,0,0,0,,Então isso é a Kinto Un? Você\Ntem muita sorte de ter isso, né?
+Dialogue: 0,0:26:53.46,0:26:56.76,fonte legenda,,0,0,0,,Uhum. Ela voa para onde eu quiser.
+Dialogue: 0,0:27:13.82,0:27:14.82,fonte legenda,,0,0,0,,Mesmo assim, Goku...
+Dialogue: 0,0:27:14.82,0:27:16.49,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:27:16.49,0:27:20.49,fonte legenda,,0,0,0,,Eu não acho que esteja\Nte devendo algum favor, entendeu?
+Dialogue: 0,0:27:20.49,0:27:22.16,fonte legenda,,0,0,0,,Eu não pedi nada.
+Dialogue: 0,0:27:22.16,0:27:23.75,fonte legenda,,0,0,0,,O que é aquilo?
+Dialogue: 0,0:28:06.80,0:28:08.60,fonte legenda,,0,0,0,,Goku, atrás de você!
+Dialogue: 0,0:28:17.15,0:28:19.05,fonte legenda,,0,0,0,,Toma cuidado!
+Dialogue: 0,0:28:45.78,0:28:47.44,fonte legenda,,0,0,0,,Isso faz cócegas!
+Dialogue: 0,0:28:47.44,0:28:48.78,fonte legenda,,0,0,0,,O que você está fazendo, seu louco!?
+Dialogue: 0,0:28:48.78,0:28:52.45,fonte legenda,,0,0,0,,Essa é a área mais perto do seu coração.
+Dialogue: 0,0:28:52.45,0:28:54.75,fonte legenda,,0,0,0,,Chega dessas piadinhas.
+Dialogue: 0,0:28:57.79,0:29:00.79,fonte legenda,,0,0,0,,Senhores, eu os fiz esperar muito!
+Dialogue: 0,0:29:00.79,0:29:04.46,fonte legenda,,0,0,0,,Essa noite, a Princesa\NAdormecida acordara de 5 mil anos,
+Dialogue: 0,0:29:04.46,0:29:11.26,fonte legenda,,0,0,0,,e sua beleza radiante e seu resplendor nós\Ndará eterna prosperidade e trevas.
+Dialogue: 0,0:29:12.14,0:29:13.47,fonte legenda,,0,0,0,,O que quer dizer?
+Dialogue: 0,0:29:13.47,0:29:16.34,fonte legenda,,0,0,0,,Agora, vamos brindar à Princesa Adormecida!
+Dialogue: 0,0:29:17.47,0:29:18.81,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:29:18.81,0:29:22.07,fonte legenda,,0,0,0,,Pare! Nossas vidas correrão perigo também!
+Dialogue: 0,0:29:39.83,0:29:41.66,fonte legenda,,0,0,0,,Brindamos com sangue!
+Dialogue: 0,0:29:47.84,0:29:49.00,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:29:55.51,0:29:56.98,fonte legenda,,0,0,0,,O que está acontecendo!?
+Dialogue: 0,0:30:01.52,0:30:03.19,fonte legenda,,0,0,0,,Vão para o altar!
+Dialogue: 0,0:30:03.19,0:30:04.86,fonte legenda,,0,0,0,,O-O quê? O quê?
+Dialogue: 0,0:30:04.86,0:30:06.88,fonte legenda,,0,0,0,,Protejam a Princesa Adormecida!
+Dialogue: 0,0:30:07.86,0:30:09.66,fonte legenda,,0,0,0,,Onde está a Princesa Adormecida!?
+Dialogue: 0,0:30:11.53,0:30:13.16,fonte legenda,,0,0,0,,Olha só isso...
+Dialogue: 0,0:30:27.88,0:30:29.37,fonte legenda,,0,0,0,,Quem é você!?
+Dialogue: 0,0:30:31.88,0:30:34.89,fonte legenda,,0,0,0,,Todos me chamam de Lunch.
+Dialogue: 0,0:30:34.89,0:30:39.35,fonte legenda,,0,0,0,,É todo meu! O tesouro lendário,\Na Princesa Adormecida.
+Dialogue: 0,0:30:40.16,0:30:42.49,fonte legenda,,0,0,0,,Então isso é a Princesa Adormecida!
+Dialogue: 0,0:30:42.49,0:30:45.16,fonte legenda,,0,0,0,,Essa é a mulher peluda?
+Dialogue: 0,0:30:45.16,0:30:48.06,fonte legenda,,0,0,0,,Atrás dela! Não deixem que escape!
+Dialogue: 0,0:30:54.50,0:30:55.99,fonte legenda,,0,0,0,,Espera aí!
+Dialogue: 0,0:30:58.84,0:30:59.84,fonte legenda,,0,0,0,,Goku!
+Dialogue: 0,0:30:59.84,0:31:02.85,fonte legenda,,0,0,0,,Ele estava aqui!
+Dialogue: 0,0:31:02.85,0:31:04.18,fonte legenda,,0,0,0,,Son-kun!
+Dialogue: 0,0:31:04.18,0:31:05.94,fonte legenda,,0,0,0,,Son-kun!
+Dialogue: 0,0:31:09.19,0:31:11.19,fonte legenda,,0,0,0,,Por que ele foi embora!?
+Dialogue: 0,0:31:11.19,0:31:13.19,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:31:13.19,0:31:14.52,fonte legenda,,0,0,0,,Sou eu, Yamcha! Yamcha!
+Dialogue: 0,0:31:14.52,0:31:16.86,fonte legenda,,0,0,0,,Quem são vocês?
+Dialogue: 0,0:31:16.86,0:31:20.86,fonte legenda,,0,0,0,,Uh, eu vim para cuidar da nossa oferenda.
+Dialogue: 0,0:31:20.86,0:31:23.46,fonte legenda,,0,0,0,,Não somos estranhos.
+Dialogue: 0,0:31:25.20,0:31:27.47,fonte legenda,,0,0,0,,Ela realmente parece uma garota deliciosa.
+Dialogue: 0,0:31:27.47,0:31:29.30,fonte legenda,,0,0,0,,Estou pensando que parte da carne pegar...
+Dialogue: 0,0:31:31.21,0:31:35.95,fonte legenda,,0,0,0,,O-Oolong! O tempo da transformação já passou!
+Dialogue: 0,0:31:35.95,0:31:37.17,fonte legenda,,0,0,0,,Oh, não!
+Dialogue: 0,0:31:47.16,0:31:50.72,fonte legenda,,0,0,0,,Saiam da frente! Seus monstros!
+Dialogue: 0,0:31:52.50,0:31:54.36,fonte legenda,,0,0,0,,Espere!
+Dialogue: 0,0:31:56.83,0:31:58.60,fonte legenda,,0,0,0,,Isso é mal!
+Dialogue: 0,0:32:05.18,0:32:06.84,fonte legenda,,0,0,0,,O que aconteceu comigo?
+Dialogue: 0,0:32:06.84,0:32:08.78,fonte legenda,,0,0,0,,Você é toda minha!
+Dialogue: 0,0:32:09.85,0:32:12.18,fonte legenda,,0,0,0,,Agora posso treinar com o velho.
+Dialogue: 0,0:32:12.18,0:32:13.52,fonte legenda,,0,0,0,,Espere!
+Dialogue: 0,0:32:13.52,0:32:15.52,fonte legenda,,0,0,0,,Kuririn!
+Dialogue: 0,0:32:15.52,0:32:16.85,fonte legenda,,0,0,0,,Você está me machucando!
+Dialogue: 0,0:32:16.85,0:32:20.79,fonte legenda,,0,0,0,,Devolva a Princesa Adormecida,\Na menos que queira o seu amigo morto.
+Dialogue: 0,0:32:22.19,0:32:23.82,fonte legenda,,0,0,0,,Agora!
+Dialogue: 0,0:32:26.53,0:32:29.33,fonte legenda,,0,0,0,,Tudo bem! Pegue.
+Dialogue: 0,0:32:31.87,0:32:33.54,fonte legenda,,0,0,0,,G-Goku...
+Dialogue: 0,0:32:33.54,0:32:37.44,fonte legenda,,0,0,0,,Deixe o Kuririn ir! Eu fiz como você mandou!
+Dialogue: 0,0:32:41.14,0:32:44.48,fonte legenda,,0,0,0,,O que vocês estão fazendo!? Ei!
+Dialogue: 0,0:32:44.48,0:32:46.97,fonte legenda,,0,0,0,,Pare!
+Dialogue: 0,0:32:48.15,0:32:51.75,fonte legenda,,0,0,0,,Solta o meu rabo... Meu poder...
+Dialogue: 0,0:33:06.84,0:33:08.51,fonte legenda,,0,0,0,,G-Goku...
+Dialogue: 0,0:33:08.51,0:33:12.84,fonte legenda,,0,0,0,,Não o mate. Eles ficam\Nmenos saborosos quando estão mortos.
+Dialogue: 0,0:33:25.86,0:33:30.53,fonte legenda,,0,0,0,,E agora, Princesa Adormecida,\Nse banhe nos raios da lua cheia, e desperte!
+Dialogue: 0,0:33:30.53,0:33:34.62,fonte legenda,,0,0,0,,Você irá retornar à vida\Ndepois de 5 mil anos dormindo!
+Dialogue: 0,0:33:38.20,0:33:42.14,fonte legenda,,0,0,0,,E irá pôr um fim no reino do sol,\Nque tem governado por muito tempo,
+Dialogue: 0,0:33:42.14,0:33:45.87,fonte legenda,,0,0,0,,construindo um novo\Nmundo repleto de escuridão eterna...
+Dialogue: 0,0:33:50.81,0:33:55.79,fonte legenda,,0,0,0,,Acorde, Princesa Adormecida!\NNossa tranqüilidade está nas Trevas!
+Dialogue: 0,0:33:55.79,0:33:58.81,fonte legenda,,0,0,0,,O frio congelante é o que desejamos!
+Dialogue: 0,0:34:20.51,0:34:23.54,fonte legenda,,0,0,0,,A Princesa Adormecida acordou!
+Dialogue: 0,0:34:29.19,0:34:33.52,fonte legenda,,0,0,0,,Devolva a Princesa Adormecida,\Na menos que queira o seu amigo morto.
+Dialogue: 0,0:34:33.52,0:34:36.12,fonte legenda,,0,0,0,,Tudo bem! Pegue.
+Dialogue: 0,0:34:40.50,0:34:43.33,fonte legenda,,0,0,0,,Como alguém pode\Nchamar isso de parque de diversões!?
+Dialogue: 0,0:34:43.33,0:34:44.84,fonte legenda,,0,0,0,,Mestre Kame, seu idiota!
+Dialogue: 0,0:34:45.14,0:34:48.47,fonte legenda,,0,0,0,,Ei, o que estou fazendo aqui?
+Dialogue: 0,0:34:48.47,0:34:50.14,fonte legenda,,0,0,0,,Eu não sei.
+Dialogue: 0,0:34:50.13,0:34:52.80,fonte legenda,,0,0,0,,Ei, o que você está fazendo?
+Dialogue: 0,0:34:52.81,0:34:54.81,fonte legenda,,0,0,0,,A lua cheia é linda.
+Dialogue: 0,0:34:55.01,0:34:57.17,fonte legenda,,0,0,0,,Lua cheia?
+Dialogue: 0,0:34:59.05,0:35:01.31,fonte legenda,,0,0,0,,Ela não é linda?
+Dialogue: 0,0:35:07.72,0:35:09.06,fonte legenda,,0,0,0,,G-Goku?
+Dialogue: 0,0:35:09.36,0:35:11.45,fonte legenda,,0,0,0,,O quê? Qual é o problema?
+Dialogue: 0,0:35:17.70,0:35:21.53,fonte legenda,,0,0,0,,Não duvido nada que agora, por causa\Nda lua cheia, ele vire ou lobisomem...
+Dialogue: 0,0:35:22.37,0:35:25.83,fonte legenda,,0,0,0,,K-Kuririn, já chega de piadinhas, entendeu?
+Dialogue: 0,0:35:35.72,0:35:38.31,fonte legenda,,0,0,0,,G-Goku! Goku!
+Dialogue: 0,0:36:20.36,0:36:21.80,fonte legenda,,0,0,0,,Ah, não!
+Dialogue: 0,0:36:24.03,0:36:27.70,fonte legenda,,0,0,0,,Goku, pare! Ela não é nossa inimiga!
+Dialogue: 0,0:36:27.70,0:36:30.37,fonte legenda,,0,0,0,,Já sei! Seu rabo é sua fraqueza!
+Dialogue: 0,0:36:30.57,0:36:31.94,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:36:41.32,0:36:44.65,fonte legenda,,0,0,0,,Pu-ar! Se transforme\Nnuma tesoura e corte o rabo!
+Dialogue: 0,0:36:44.65,0:36:45.32,fonte legenda,,0,0,0,,Certo!
+Dialogue: 0,0:36:45.32,0:36:47.02,fonte legenda,,0,0,0,,Transformação!
+Dialogue: 0,0:37:05.58,0:37:07.58,fonte legenda,,0,0,0,,Que diabos foi aquilo!?
+Dialogue: 0,0:37:07.58,0:37:11.25,fonte legenda,,0,0,0,,Lúcifer-sama, por favor, olhe.
+Dialogue: 0,0:37:11.25,0:37:13.92,fonte legenda,,0,0,0,,Ah, o amanhecer está chegando!
+Dialogue: 0,0:37:13.92,0:37:17.25,fonte legenda,,0,0,0,,É o sol.\NEsse é o último amanhecer que vamos ver.
+Dialogue: 0,0:37:17.25,0:37:19.52,fonte legenda,,0,0,0,,Espere, o que quer dizer com isso?
+Dialogue: 0,0:37:23.26,0:37:26.72,fonte legenda,,0,0,0,,O que aconteceu comigo? Por que estou pelado?
+Dialogue: 0,0:37:29.60,0:37:32.12,fonte legenda,,0,0,0,,Eu me sinto um pouco estranho.
+Dialogue: 0,0:37:33.27,0:37:36.01,fonte legenda,,0,0,0,,Uou! Meu rabo sumiu!
+Dialogue: 0,0:37:36.01,0:37:38.61,fonte legenda,,0,0,0,,Ah! Sumiu! Sumiu! Sumiu! Meu rabo sumiu!
+Dialogue: 0,0:37:38.61,0:37:39.88,fonte legenda,,0,0,0,,Aconteceu que...
+Dialogue: 0,0:37:39.88,0:37:41.21,fonte legenda,,0,0,0,,Desculpa.
+Dialogue: 0,0:37:41.21,0:37:42.84,fonte legenda,,0,0,0,,Bom, não importa.
+Dialogue: 0,0:37:44.21,0:37:46.30,fonte legenda,,0,0,0,,Idiota.
+Dialogue: 0,0:37:46.35,0:37:49.38,fonte legenda,,0,0,0,,Temos de nos apressar,\NGoku! A Bulma corre perigo!
+Dialogue: 0,0:38:00.90,0:38:04.77,fonte legenda,,0,0,0,,Princesa Adormecida,\Ncom seus poderes ilimitados,
+Dialogue: 0,0:38:04.77,0:38:07.10,fonte legenda,,0,0,0,,ponha o nosso\Nmaior inimigo, o sol, para descansar!
+Dialogue: 0,0:38:07.30,0:38:10.00,fonte legenda,,0,0,0,,O quê!? O que está fazendo!?
+Dialogue: 0,0:38:16.95,0:38:19.28,fonte legenda,,0,0,0,,Você não pretende\Nusar essa máquina no sol, não é?
+Dialogue: 0,0:38:19.28,0:38:21.62,fonte legenda,,0,0,0,,É isso mesmo!
+Dialogue: 0,0:38:21.62,0:38:22.95,fonte legenda,,0,0,0,,Eu vou fazê-lo explodir!
+Dialogue: 0,0:38:22.95,0:38:25.16,fonte legenda,,0,0,0,,Não faça nada estúpido!
+Dialogue: 0,0:38:25.16,0:38:28.09,fonte legenda,,0,0,0,,Se fizer isso,\Nnão poderemos mais nadar na praia!
+Dialogue: 0,0:38:38.24,0:38:41.73,fonte legenda,,0,0,0,,Preste atenção. Esse será o fim do sol!
+Dialogue: 0,0:38:45.24,0:38:47.24,fonte legenda,,0,0,0,,Yamcha!
+Dialogue: 0,0:38:47.24,0:38:48.44,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:38:51.58,0:38:53.92,fonte legenda,,0,0,0,,Bulma!
+Dialogue: 0,0:38:53.92,0:38:56.25,fonte legenda,,0,0,0,,Miseráveis!
+Dialogue: 0,0:39:10.60,0:39:11.57,fonte legenda,,0,0,0,,Goku!
+Dialogue: 0,0:39:14.27,0:39:16.27,fonte legenda,,0,0,0,,Kuririn!
+Dialogue: 0,0:39:16.27,0:39:17.50,fonte legenda,,0,0,0,,Certo!
+Dialogue: 0,0:39:33.96,0:39:37.23,fonte legenda,,0,0,0,,Son-kun!  Rápido, destrua aquela coisa!
+Dialogue: 0,0:39:37.23,0:39:40.32,fonte legenda,,0,0,0,,Senão não poderemos mais\Nnadar na praia... afinal de contas, é o sol!
+Dialogue: 0,0:39:47.97,0:39:50.31,LEGENDA PARA PODERES,,0,0,0,,KA... ME...
+Dialogue: 0,0:39:50.31,0:39:54.65,LEGENDA PARA PODERES,,0,0,0,,HA... ME...
+Dialogue: 0,0:39:54.65,0:39:57.08,LEGENDA PARA PODERES,,0,0,0,,HA!!
+Dialogue: 0,0:40:13.66,0:40:15.50,fonte legenda,,0,0,0,,Droga! Corram!
+Dialogue: 0,0:40:59.64,0:41:01.65,fonte legenda,,0,0,0,,Muito bem, Goku.
+Dialogue: 0,0:41:01.65,0:41:04.55,fonte legenda,,0,0,0,,Graças a você, o sol não foi destruído.
+Dialogue: 0,0:41:04.55,0:41:06.98,fonte legenda,,0,0,0,,Goku...
+Dialogue: 0,0:41:06.98,0:41:08.65,fonte legenda,,0,0,0,,O quê?
+Dialogue: 0,0:41:08.65,0:41:11.32,fonte legenda,,0,0,0,,Não é nada, esquece.
+Dialogue: 0,0:41:11.32,0:41:12.99,fonte legenda,,0,0,0,,Você está estranho.
+Dialogue: 0,0:41:12.99,0:41:17.15,fonte legenda,,0,0,0,,Bom, o que importa é que,\Ngraças a Deus, estamos bem.
+Dialogue: 0,0:41:19.33,0:41:21.30,fonte legenda,,0,0,0,,...Xis!\N...Xis!\N...Xis!
+Dialogue: 0,0:41:22.60,0:41:24.60,fonte legenda,,0,0,0,,Muito bem!
+Dialogue: 0,0:41:24.60,0:41:27.94,fonte legenda,,0,0,0,,É, sem dúvida nenhuma, a Princesa Adormecida!
+Dialogue: 0,0:41:27.94,0:41:30.27,fonte legenda,,0,0,0,,É tão linda como dito nas histórias!
+Dialogue: 0,0:41:30.27,0:41:33.24,fonte legenda,,0,0,0,,Hum, meu nome é Lunch...
+Dialogue: 0,0:41:34.28,0:41:35.95,fonte legenda,,0,0,0,,Ela é linda, mesmo!
+Dialogue: 0,0:41:35.95,0:41:38.02,fonte legenda,,0,0,0,,Você está louco, Mestre Kame...
+Dialogue: 0,0:41:38.02,0:41:40.35,fonte legenda,,0,0,0,,Mestre Kame, você está babando,\Nvocê está babando.
+Dialogue: 0,0:41:41.69,0:41:43.35,fonte legenda,,0,0,0,,Eu sei!
+Dialogue: 0,0:41:43.15,0:41:46.82,fonte legenda,,0,0,0,,Então... a gente não conseguiu\Nte trazer a Princesa Adormecida...
+Dialogue: 0,0:41:46.82,0:41:50.50,fonte legenda,,0,0,0,,Do que estão falando?\NVocês fizeram um ótimo, ótimo trabalho!
+Dialogue: 0,0:41:50.50,0:41:52.50,fonte legenda,,0,0,0,,Então quer dizer que...
+Dialogue: 0,0:41:52.50,0:41:57.17,fonte legenda,,0,0,0,,Vocês dois cumpriram a promessa.\NFarei de vocês meus discípulos!
+Dialogue: 0,0:41:57.17,0:41:58.84,fonte legenda,,0,0,0,,É sério!?
+Dialogue: 0,0:41:58.84,0:42:02.47,fonte legenda,,0,0,0,,Então, é Lunch-san, não é mesmo?\NVocê deve estar cansada.
+Dialogue: 0,0:42:02.47,0:42:05.51,fonte legenda,,0,0,0,,Entre e sinta-se a vontade!
+Dialogue: 0,0:42:05.51,0:42:07.18,fonte legenda,,0,0,0,,Por aqui.
+Dialogue: 0,0:42:07.18,0:42:08.85,fonte legenda,,0,0,0,,Conseguimos! Conseguimos! Conseguimos!
+Dialogue: 0,0:42:08.85,0:42:10.85,fonte legenda,,0,0,0,,Isso é ótimo, certo Kuririn!?
+Dialogue: 0,0:42:10.85,0:42:12.85,fonte legenda,,0,0,0,,Conseguimos! Conseguimos!
+Dialogue: 0,0:42:12.85,0:42:14.55,fonte legenda,,0,0,0,,Quem diabos são vocês!?
+Dialogue: 0,0:42:19.19,0:42:20.78,fonte legenda,,0,0,0,,Qual é a tua, velho!?
+Dialogue: 0,0:42:33.87,0:42:37.61,fonte legenda,,0,0,0,,Ei, eu fiz alguma coisa ruim?
+Dialogue: 0,0:42:37.61,0:42:40.01,fonte legenda,,0,0,0,,N-não, não exatamente.
+Dialogue: 0,0:42:55.16,0:42:58.16,legenda para abertura e encerramento,,0,0,0,,Fantasia, venha a mim
+Dialogue: 0,0:42:58.16,0:43:00.70,legenda para abertura e encerramento,,0,0,0,,Eu quero te conquistar
+Dialogue: 0,0:43:00.70,0:43:07.17,legenda para abertura e encerramento,,0,0,0,,Juventude, um mistério a descobrir
+Dialogue: 0,0:43:07.17,0:43:10.17,legenda para abertura e encerramento,,0,0,0,,Todos desejam logo viver
+Dialogue: 0,0:43:10.17,0:43:12.84,legenda para abertura e encerramento,,0,0,0,,mil e uma aventuras
+Dialogue: 0,0:43:12.84,0:43:18.85,legenda para abertura e encerramento,,0,0,0,,Juventude, conserve a inocência que há em ti.
+Dialogue: 0,0:43:18.85,0:43:24.86,legenda para abertura e encerramento,,0,0,0,,Se você tenta parecer algo que não é,
+Dialogue: 0,0:43:24.86,0:43:30.96,legenda para abertura e encerramento,,0,0,0,,se desfará a\Nmagia igual a quebrar uma ilusão.
+Dialogue: 0,0:43:30.96,0:43:42.14,legenda para abertura e encerramento,,0,0,0,,Atreva-se a enfrentar selvagemmente\Ne completamente o milagre de viver
+Dialogue: 0,0:43:42.14,0:43:49.81,legenda para abertura e encerramento,,0,0,0,,Romance posso te dar,\Nromance posso te dar,
+Dialogue: 0,0:43:49.81,0:43:54.15,legenda para abertura e encerramento,,0,0,0,,Se você me ensinar com\Nvalor a verdade que há em você
+Dialogue: 0,0:43:54.15,0:44:01.49,legenda para abertura e encerramento,,0,0,0,,Romance posso te dar,\Nromance posso te dar,
+Dialogue: 0,0:44:01.49,0:44:09.76,legenda para abertura e encerramento,,0,0,0,,Vibrando em meu tórax é\Nvigorosamente o amor que há em mim para você!
+Dialogue: 0,0:44:15.82,0:44:19.76,legenda para anuncio de episódio e creditos,,0,0,0,,"LEGENDAS: MAZZOCATO"\N"EDIÇÃO: HUGOKAMUS"
+Dialogue: 0,0:44:21.61,0:44:26.79,fonte legenda,,0,0,0,,FIM
